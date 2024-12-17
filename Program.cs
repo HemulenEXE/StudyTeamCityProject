@@ -30,7 +30,7 @@ class FermatTheorem
         {
             Console.WriteLine($"Решений для n = {power} и a, b, c <= {limit} не существует.");
         }
-        checked Wrong Build in GitHub
+
         Console.WriteLine("Проверка завершена.");
     }
 }
