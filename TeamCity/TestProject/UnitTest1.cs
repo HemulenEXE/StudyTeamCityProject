@@ -2,6 +2,7 @@ namespace UnitTests;
 
 using static FermatTheorem;
 
+[TestFixture]
 public class Tests
 {
     [Test]
